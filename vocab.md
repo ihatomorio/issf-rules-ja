@@ -14,6 +14,9 @@ Chief Referee
 Event
 :   大会
 
+General Technical Rules
+:   一般技術規則
+
 Jury
 :   ジュリー
 
