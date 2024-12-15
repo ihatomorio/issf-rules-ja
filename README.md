@@ -1,6 +1,6 @@
 # issf-rules-ja
 
-[ISSF ルールブック2023年版](https://www.issf-sports.org/getfile.aspx?mod=docf&pane=1&inst=455&file=ISSF_Rule_Book_2023_Approved_Version.pdf)の日本語訳
+[ISSF ルールブック2023年版](https://www.issf-sports.org/rules)の日本語訳
 
 ## おことわり
 
