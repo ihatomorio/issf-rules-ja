@@ -11,11 +11,17 @@ cartridge
 Chief Referee
 :   チーフレフェリー
 
+Competition officials
+:   競技役員
+
 Equipment Control
 :   機器管理委員
 
 Event
 :   大会
+
+FOP
+:   競技場
 
 General Technical Rules
 :   一般技術規則
@@ -31,6 +37,9 @@ Jury
 
 malfunction(s)
 :   故障
+
+Organizing Committee
+:   組織委員会
 
 Pre-Event Training (PET)
 :   大会前練習
